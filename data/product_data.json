@@ -1,0 +1,502 @@
+[
+    {
+        "product_id": "e467a81b-b48c-4f15-9bcb-0001e77ca213",
+        "category": "administration",
+        "price": 898.07
+    },
+    {
+        "product_id": "98779e09-7784-4234-a79a-9a74f4ce617b",
+        "category": "response",
+        "price": 704.18
+    },
+    {
+        "product_id": "9b5ff227-5ef8-4f47-bce2-5d86cff9822f",
+        "category": "sometimes",
+        "price": 887.58
+    },
+    {
+        "product_id": "f02bdcea-4c78-480d-bf8d-3e5e6b892248",
+        "category": "computer",
+        "price": 56.93
+    },
+    {
+        "product_id": "6ab61989-4374-435d-8331-4429657311c3",
+        "category": "democratic",
+        "price": 545.8
+    },
+    {
+        "product_id": "b157b3e0-355e-40c0-acdb-60cae222d039",
+        "category": "care",
+        "price": 882.92
+    },
+    {
+        "product_id": "4b6f16c6-29ab-440e-a0af-d6a51bc97ab2",
+        "category": "ago",
+        "price": 235.15
+    },
+    {
+        "product_id": "101cc217-6db6-4863-88b7-0eae31608764",
+        "category": "door",
+        "price": 346.12
+    },
+    {
+        "product_id": "37eb6bf5-4c43-49a3-bf8f-ea6e880a7e66",
+        "category": "argue",
+        "price": 67.95
+    },
+    {
+        "product_id": "c2f28570-62bb-4551-b0af-62ce065c6077",
+        "category": "risk",
+        "price": 249.87
+    },
+    {
+        "product_id": "ad3f902d-c6e2-4617-b017-e764d27d3f69",
+        "category": "western",
+        "price": 564.07
+    },
+    {
+        "product_id": "85384e56-1a94-4fad-8a74-5321598dbb76",
+        "category": "nation",
+        "price": 82.87
+    },
+    {
+        "product_id": "5d4a9daa-c8cd-4eb3-8b3f-ad9f8860171b",
+        "category": "look",
+        "price": 181.54
+    },
+    {
+        "product_id": "9d73773e-f298-455a-bf1d-4c95c56f31d6",
+        "category": "consumer",
+        "price": 234.26
+    },
+    {
+        "product_id": "c018e18e-3125-4386-af7b-117591b9fac7",
+        "category": "pay",
+        "price": 988.21
+    },
+    {
+        "product_id": "d5265b4f-e24d-475d-b403-4e6906349b80",
+        "category": "campaign",
+        "price": 638.5
+    },
+    {
+        "product_id": "2d6a7e23-2c6c-45e3-844a-494e716a1afc",
+        "category": "save",
+        "price": 457.52
+    },
+    {
+        "product_id": "ab150e7d-20bd-479f-9eae-8fe5016d6f38",
+        "category": "effect",
+        "price": 273.63
+    },
+    {
+        "product_id": "e90033e4-8cef-45b8-8127-8b2cdf2d6209",
+        "category": "baby",
+        "price": 688.95
+    },
+    {
+        "product_id": "9787efd3-d8f2-4c63-b268-5e1f0d6e0c46",
+        "category": "apply",
+        "price": 608.47
+    },
+    {
+        "product_id": "c9391388-f9ec-44b9-b82a-4d809b0c4d5b",
+        "category": "follow",
+        "price": 630.17
+    },
+    {
+        "product_id": "0913e4df-d6af-481e-8f42-5a6b1824e272",
+        "category": "focus",
+        "price": 47.48
+    },
+    {
+        "product_id": "3ef5b00f-fa3f-4e54-be7a-ef25fbdd7f56",
+        "category": "election",
+        "price": 733.61
+    },
+    {
+        "product_id": "a0eae9ef-e3ee-4765-994c-c6749b7c438e",
+        "category": "current",
+        "price": 317.55
+    },
+    {
+        "product_id": "bd026258-1c32-4702-ac6f-48f14e4a4462",
+        "category": "suddenly",
+        "price": 518.27
+    },
+    {
+        "product_id": "a850d471-75f6-43e9-8d65-92d5be78666c",
+        "category": "leg",
+        "price": 356.91
+    },
+    {
+        "product_id": "73ceee8b-e668-492c-a669-1a188eb38ad3",
+        "category": "might",
+        "price": 888.51
+    },
+    {
+        "product_id": "f803e404-2ce8-47ea-b2c7-4d64cd643a36",
+        "category": "international",
+        "price": 550.87
+    },
+    {
+        "product_id": "b8299cf3-5f16-4256-81d4-df6ce102a2d9",
+        "category": "she",
+        "price": 797.25
+    },
+    {
+        "product_id": "54ac5b83-2889-4018-aaf3-d3635bf5f478",
+        "category": "notice",
+        "price": 528.68
+    },
+    {
+        "product_id": "47dc4c74-1808-4233-a405-3efdfd0d8108",
+        "category": "thought",
+        "price": 391.76
+    },
+    {
+        "product_id": "8c09e2c5-3ced-4277-b94c-253e221dd0aa",
+        "category": "home",
+        "price": 187.11
+    },
+    {
+        "product_id": "039938af-d062-44eb-9163-d3f753ab3a68",
+        "category": "anything",
+        "price": 224.68
+    },
+    {
+        "product_id": "ac34aa50-7a9f-4c1d-9b66-c319f29e8d8d",
+        "category": "now",
+        "price": 565.72
+    },
+    {
+        "product_id": "39dc4be7-0f7b-4b04-959d-904b38e8d7cb",
+        "category": "themselves",
+        "price": 962.45
+    },
+    {
+        "product_id": "e5de34f6-3710-4be7-ae88-283eaf7ea1d2",
+        "category": "the",
+        "price": 88.77
+    },
+    {
+        "product_id": "c1e6004b-f42c-451e-a174-b69836872703",
+        "category": "north",
+        "price": 302.28
+    },
+    {
+        "product_id": "bf2ba65d-7965-4fa9-8be4-c408165418d0",
+        "category": "big",
+        "price": 737.44
+    },
+    {
+        "product_id": "6588e05b-8f21-4b70-8628-1efc929627c5",
+        "category": "fall",
+        "price": 470.75
+    },
+    {
+        "product_id": "3511822a-ef9e-4039-841a-e038b63e1c0f",
+        "category": "particularly",
+        "price": 978.44
+    },
+    {
+        "product_id": "3542d05f-54df-4d91-acf1-f6f214aa3d98",
+        "category": "child",
+        "price": 663.26
+    },
+    {
+        "product_id": "8b87781c-362f-46d3-9cea-7033594a441f",
+        "category": "speak",
+        "price": 196.57
+    },
+    {
+        "product_id": "e7f7f2b3-935c-441f-a0a9-32a06858a247",
+        "category": "since",
+        "price": 809.78
+    },
+    {
+        "product_id": "7b8ab07f-8480-4e9f-80cb-33418ebbfaf6",
+        "category": "day",
+        "price": 359.56
+    },
+    {
+        "product_id": "57924299-0908-4018-811a-8fd0b466ea52",
+        "category": "theory",
+        "price": 288.94
+    },
+    {
+        "product_id": "2d5f9692-2f1c-458c-a463-79a11f928b94",
+        "category": "particularly",
+        "price": 290.25
+    },
+    {
+        "product_id": "229e81e1-c79f-477e-85ad-4928398c0391",
+        "category": "less",
+        "price": 877.77
+    },
+    {
+        "product_id": "fd60c69c-f6f6-4d49-b461-c221bf699a8e",
+        "category": "others",
+        "price": 173.08
+    },
+    {
+        "product_id": "ac75af87-270f-4cf9-87d6-fa64c66f4e03",
+        "category": "better",
+        "price": 211.97
+    },
+    {
+        "product_id": "91705b89-afea-4b25-b86e-4217e365c17f",
+        "category": "yourself",
+        "price": 345.41
+    },
+    {
+        "product_id": "e90c9998-a6d5-4446-8ee3-e1408bc20b89",
+        "category": "just",
+        "price": 492.03
+    },
+    {
+        "product_id": "60e68dd1-0968-4e44-b387-08d6fc91e12a",
+        "category": "out",
+        "price": 275.21
+    },
+    {
+        "product_id": "31f3a3bd-0503-42ff-87b0-878481f6e36d",
+        "category": "nature",
+        "price": 766.24
+    },
+    {
+        "product_id": "d93339a2-f3d9-486b-a5c7-1e346ec52ea4",
+        "category": "rather",
+        "price": 336.65
+    },
+    {
+        "product_id": "901820d6-c14d-48d8-86fa-716770fa91d2",
+        "category": "herself",
+        "price": 583.37
+    },
+    {
+        "product_id": "3734c680-00c6-4c7d-9041-4611bb836f58",
+        "category": "imagine",
+        "price": 254.03
+    },
+    {
+        "product_id": "de7d24f7-0d2e-4b34-b595-de53b9745ab5",
+        "category": "you",
+        "price": 671.87
+    },
+    {
+        "product_id": "9e32b1e4-7c2f-4f2d-a38f-755e19e9a371",
+        "category": "surface",
+        "price": 908.05
+    },
+    {
+        "product_id": "0f8d66aa-65f2-4ff0-9007-b43a24c27f71",
+        "category": "itself",
+        "price": 506.67
+    },
+    {
+        "product_id": "2d791abe-a8cd-4e79-b9e3-0744e7d370bb",
+        "category": "a",
+        "price": 644.4
+    },
+    {
+        "product_id": "cbee920e-0057-4fc3-bce8-a3ec2884e411",
+        "category": "house",
+        "price": 81.27
+    },
+    {
+        "product_id": "7eb962b9-a344-4fad-b43a-b1ce5751b853",
+        "category": "change",
+        "price": 967.17
+    },
+    {
+        "product_id": "8098c6e6-d14a-42bf-9be1-764eaadeae7a",
+        "category": "before",
+        "price": 428.32
+    },
+    {
+        "product_id": "b4a2caf3-8fec-48e8-b06d-6ac3977970c1",
+        "category": "relate",
+        "price": 51.65
+    },
+    {
+        "product_id": "729b759f-b175-42cd-bf41-9eab3c89d414",
+        "category": "similar",
+        "price": 18.97
+    },
+    {
+        "product_id": "14897f8f-b19d-46ae-9a24-f1fee3160be3",
+        "category": "campaign",
+        "price": 581.72
+    },
+    {
+        "product_id": "14d09fb9-e015-4492-ac5b-011cd2bb8c63",
+        "category": "wide",
+        "price": 819.84
+    },
+    {
+        "product_id": "ac5f768f-7577-4d2c-b134-40ef489388bf",
+        "category": "discuss",
+        "price": 464.41
+    },
+    {
+        "product_id": "b04bca11-8978-46dc-9b26-006a944e08aa",
+        "category": "feel",
+        "price": 128.47
+    },
+    {
+        "product_id": "33c66cee-9eb5-468c-8a0e-3eebe22dcc7b",
+        "category": "final",
+        "price": 653.06
+    },
+    {
+        "product_id": "df91bba9-7c90-4074-9946-a5438e4268ef",
+        "category": "general",
+        "price": 333.22
+    },
+    {
+        "product_id": "92dd249c-f29b-4bd1-9906-cd73ac270e86",
+        "category": "government",
+        "price": 57.75
+    },
+    {
+        "product_id": "fe4a2d1e-32bc-4fb9-9522-0a5e2b1bd328",
+        "category": "sport",
+        "price": 670.36
+    },
+    {
+        "product_id": "6bf9348b-495a-4150-84c9-ef2f397354f0",
+        "category": "discussion",
+        "price": 771.22
+    },
+    {
+        "product_id": "3eef0e08-b9bf-49e9-b10f-3df11bb6b085",
+        "category": "name",
+        "price": 303.76
+    },
+    {
+        "product_id": "0e9aa6ec-0edc-4ea0-9fc7-bc4622b7b7de",
+        "category": "technology",
+        "price": 513.02
+    },
+    {
+        "product_id": "eca0ead6-54d3-40e3-a835-88e507e3bddf",
+        "category": "enter",
+        "price": 156.6
+    },
+    {
+        "product_id": "0bf95581-1ed7-4e3e-805d-19ffb5d0b6de",
+        "category": "end",
+        "price": 638.52
+    },
+    {
+        "product_id": "4b35ca76-b9a6-4392-999d-9da03abb63da",
+        "category": "make",
+        "price": 298.12
+    },
+    {
+        "product_id": "80a0774b-d267-477f-931f-0018b2fef028",
+        "category": "against",
+        "price": 710.47
+    },
+    {
+        "product_id": "d9dc801e-d10b-4c90-a8af-58573d6db931",
+        "category": "message",
+        "price": 281.73
+    },
+    {
+        "product_id": "7c898cca-bea8-4eec-b280-4cd40dd00942",
+        "category": "level",
+        "price": 258.11
+    },
+    {
+        "product_id": "4663116e-17e8-4fe5-ab52-feafffb7279f",
+        "category": "finish",
+        "price": 757.27
+    },
+    {
+        "product_id": "66a89313-98d1-47b9-917d-2a849af65c3f",
+        "category": "former",
+        "price": 640.36
+    },
+    {
+        "product_id": "6556696b-41a0-47df-8b71-ae6a461093bb",
+        "category": "walk",
+        "price": 974.95
+    },
+    {
+        "product_id": "35fd75f5-f20f-4d3f-9577-02a33c61b1d0",
+        "category": "wear",
+        "price": 291.0
+    },
+    {
+        "product_id": "4a5a1c9b-1701-4a90-ae37-f4208c1e1121",
+        "category": "not",
+        "price": 279.12
+    },
+    {
+        "product_id": "c4339662-48b3-4778-8ad2-70bac5cc9a60",
+        "category": "president",
+        "price": 986.15
+    },
+    {
+        "product_id": "d89d19bb-e675-4aa2-8198-2e9415567a8a",
+        "category": "boy",
+        "price": 524.67
+    },
+    {
+        "product_id": "2b2f82d4-99fe-4aca-b1ef-066d6e631c1a",
+        "category": "hand",
+        "price": 22.23
+    },
+    {
+        "product_id": "d34680a4-2bc7-4d1c-8dbd-2ffbc172eb9e",
+        "category": "organization",
+        "price": 156.54
+    },
+    {
+        "product_id": "b314d375-187b-4e9c-b45c-c32c63868470",
+        "category": "note",
+        "price": 599.76
+    },
+    {
+        "product_id": "121c8565-6d22-4795-822b-63178f6eeea7",
+        "category": "bag",
+        "price": 852.7
+    },
+    {
+        "product_id": "0f944ab6-51cc-4151-8673-3c4fa8b5ce02",
+        "category": "here",
+        "price": 661.4
+    },
+    {
+        "product_id": "6e32a16f-0185-47f5-a3e3-9e3df546b719",
+        "category": "table",
+        "price": 930.29
+    },
+    {
+        "product_id": "6edd9dc6-52fb-4917-a761-86cd7b56a56e",
+        "category": "hear",
+        "price": 642.44
+    },
+    {
+        "product_id": "daf6a9fe-42a5-4d8a-abc3-e5563f2418f5",
+        "category": "effect",
+        "price": 672.59
+    },
+    {
+        "product_id": "286cc396-e4d8-4415-a020-cc1c6cfb9d28",
+        "category": "culture",
+        "price": 37.65
+    },
+    {
+        "product_id": "cd27bae9-4e6b-49a2-b92a-189ec65da476",
+        "category": "end",
+        "price": 728.32
+    },
+    {
+        "product_id": "6b80ea52-6b71-453e-be3f-a6c21c84abbe",
+        "category": "recognize",
+        "price": 136.58
+    }
+]
