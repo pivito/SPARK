@@ -1,4 +1,4 @@
-├── apps/data_bda/ /n
+├── apps/data_bda/
 │   ├── sales_data.csv
 ├── data_generation/
 │   |── generar_csv.py 
