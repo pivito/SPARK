@@ -1,0 +1,13 @@
+├── apps/data_bda/
+│   ├── sales_data.csv
+├── data_generation/
+│   |── generar_csv.py 
+│   ├── generar_bbdd.py 
+│   ├── generarkafka.py
+│   ├── scheduler.py 
+├── apps/
+   ├── integracion_datos.py (a S3/LocalStack)
+   ├── transformacion_datos.py (con Spark)
+   ├── cargar_datos.py (a Redshift simulado)
+   └── analisis_datos.py (consultas Spark y Python)
+
